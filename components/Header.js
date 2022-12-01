@@ -1,8 +1,8 @@
 import * as React from 'react';
 import { View, Text, StyleSheet, Image, Dimensions, TouchableOpacity } from 'react-native';
-import { FontAwesomeIcon } from '@fortawesome/react-native-fontawesome'
-import { faCheckSquare, faCoffee } from '@fortawesome/fontawesome-free-solid'
-import { faMugSaucer } from '@fortawesome/free-solid-svg-icons/faMugSaucer'
+// import { FontAwesomeIcon } from '@fortawesome/react-native-fontawesome'
+// import { faCheckSquare, faCoffee } from '@fortawesome/fontawesome-free-solid'
+// import { faMugSaucer } from '@fortawesome/free-solid-svg-icons/faMugSaucer'
 
 const width = Dimensions.get('window').width;
 
